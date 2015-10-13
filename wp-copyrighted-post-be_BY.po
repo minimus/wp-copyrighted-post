@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-copyrighted-post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-06 20:51+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cower <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-copyrighted-post.php:57
+msgid "All rights reserved."
+msgstr "Усё правы абароненыя."
+
+#: wp-copyrighted-post.php:82
+msgid "Copyrighted Post"
+msgstr "Аўтарскія правы"
+
+#: wp-copyrighted-post.php:90
+msgid "Basic Settings"
+msgstr "Асноўныя параметры"
+
+#: wp-copyrighted-post.php:94
+msgid "Copyright owner"
+msgstr "Праваўладальнік"
+
+#: wp-copyrighted-post.php:95
+msgid "Selecting \"Blog Name\"(\"Author Name\") will show name of blog (author of post) as copyright owner. If your blog is multi author blog, use \"Author name\" to highlight copyright owner."
+msgstr "Вылучыце \"Імя блога\" або \"Імя аўтара\" для адлюстравання праваўладальніка ў радку аўтарскіх правоў. Для блога некалькіх аўтараў лепш вылучыць \"Імя аўтара\"."
+
+#: wp-copyrighted-post.php:98
+msgid "Blog Name"
+msgstr "Імя блога"
+
+#: wp-copyrighted-post.php:98
+msgid "Author Name"
+msgstr "Імя аўтара"
+
+#: wp-copyrighted-post.php:101
+msgid "Define Copyright Notice String"
+msgstr "Стандартны радок аўтарскага права"
+
+#: wp-copyrighted-post.php:102
+msgid "This is a phrase that originated in copyright law as part of copyright notices. English: \"All rights reserved.\""
+msgstr "Гэта стандартны радок для аб'явы аўтарскага права. Звычайна на рускім выкарыстоўваецца фраза \"Усё правы абароненыя.\", на ангельскім \"All rights reserved.\""
+
+#: wp-copyrighted-post.php:108
+msgid "Define Extended Copyright Notice String"
+msgstr "Дадатковы радок аўтарскага права"
+
+#: wp-copyrighted-post.php:109
+msgid "This is extended copyright notice string. You can place additional information here."
+msgstr "У дадатковым радку можна змясціць любую інфармацыю. Напрыклад паведамленне аб неабходнасці спасылкі на зыходны артыкул пры рэпублікацыі."
+
+#: wp-copyrighted-post.php:115
+msgid "Display in Single Post Only"
+msgstr "Паказваць толькі пры праглядзе адзінкавага артыкула"
+
+#: wp-copyrighted-post.php:116
+msgid "Select \"Yes\", if you want display copyright notice only at the end of post in single post viewing mode."
+msgstr "Вылучыце \"Так\", калі жадаеце паказваць паведамленне аб аўтарскіх правах толькі ў рэжыме прагляду адзінкавага артыкула. Калі Вы не карыстаецеся тэгам \"more\", мае сэнс уключыць паказ ва ўсіх рэжымах, вылучыўшы \"Не\"."
+
+#: wp-copyrighted-post.php:119
+msgid "Yes"
+msgstr "Так"
+
+#: wp-copyrighted-post.php:119
+msgid "No"
+msgstr "Не"
+
+#: wp-copyrighted-post.php:132
+msgid "Copyrighted Post Settings Updated."
+msgstr "Параметры ўбудовы \"Аўтарскія правы\" захаваныя."
+
+#: wp-copyrighted-post.php:139
+msgid "Copyrighted Post Settings"
+msgstr "Параметры ўбудовы \"Аўтарскія правы\""
+
+#: wp-copyrighted-post.php:202
+msgid "Update Settings"
+msgstr "Захаваць параметры"
+

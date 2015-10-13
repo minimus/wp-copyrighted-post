@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-copyrighted-post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-06 20:51+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: liuxiangqian <support@ixiezi.com>\n"
+"Language-Team: ixiezi <support@ixiezi.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: China\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wp-copyrighted-post.php:57
+msgid "All rights reserved."
+msgstr "版权所有."
+
+#: wp-copyrighted-post.php:82
+msgid "Copyrighted Post"
+msgstr "版权信息"
+
+#: wp-copyrighted-post.php:90
+msgid "Basic Settings"
+msgstr "基本设置"
+
+#: wp-copyrighted-post.php:94
+msgid "Copyright owner"
+msgstr "版权所有人"
+
+#: wp-copyrighted-post.php:95
+msgid "Selecting \"Blog Name\"(\"Author Name\") will show name of blog (author of post) as copyright owner. If your blog is multi author blog, use \"Author name\" to highlight copyright owner."
+msgstr "选择 \"博客名称(\"作者名称\")会相应显示博客或日志作者的名称作为版权所有人，如果您的博客是多用户共有的博客，请使用\"作者名称\"来突出版权所有人。"
+
+#: wp-copyrighted-post.php:98
+msgid "Blog Name"
+msgstr "博客名称"
+
+#: wp-copyrighted-post.php:98
+msgid "Author Name"
+msgstr "作者名称"
+
+#: wp-copyrighted-post.php:101
+msgid "Define Copyright Notice String"
+msgstr "默认版权提示信息"
+
+#: wp-copyrighted-post.php:102
+msgid "This is a phrase that originated in copyright law as part of copyright notices. English: \"All rights reserved.\""
+msgstr "这是一个起源于著作权法的词组，用于进行版权声明，英文的相应词组是：\"All rights reserved.\""
+
+#: wp-copyrighted-post.php:108
+msgid "Define Extended Copyright Notice String"
+msgstr "默认的扩展版权声明字符"
+
+#: wp-copyrighted-post.php:109
+msgid "This is extended copyright notice string. You can place additional information here."
+msgstr "这是一个扩展的版权声明字符，您可以在此输入额外信息。"
+
+#: wp-copyrighted-post.php:115
+msgid "Display in Single Post Only"
+msgstr "仅在单个文章页面显示"
+
+#: wp-copyrighted-post.php:116
+msgid "Select \"Yes\", if you want display copyright notice only at the end of post in single post viewing mode."
+msgstr "如果您希望仅在单个文章页面显示版权声明信息，请选择\"是\"。"
+
+#: wp-copyrighted-post.php:119
+msgid "Yes"
+msgstr "是"
+
+#: wp-copyrighted-post.php:119
+msgid "No"
+msgstr "否"
+
+#: wp-copyrighted-post.php:132
+msgid "Copyrighted Post Settings Updated."
+msgstr "文章版权声明设置更新成功。"
+
+#: wp-copyrighted-post.php:139
+msgid "Copyrighted Post Settings"
+msgstr "文章版权声明设置"
+
+#: wp-copyrighted-post.php:202
+msgid "Update Settings"
+msgstr "更新设"
+

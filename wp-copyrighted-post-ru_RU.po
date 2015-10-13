@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-copyrighted-post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-03 14:37+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: minimus <minimus@blogcoding.ru>\n"
+"Language-Team: minimus <minimus@blogovod.co.cc>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-copyrighted-post.php:66
+msgid "All rights reserved."
+msgstr "Все права защищены."
+
+#: wp-copyrighted-post.php:120
+msgid "Copyright Settings"
+msgstr "Авторские права"
+
+#: wp-copyrighted-post.php:121
+msgid "Copyright owner"
+msgstr "Правообладатель"
+
+#: wp-copyrighted-post.php:121
+msgid "Select a variant of display the legal owner in line of the copyrights. For a blog of several authors it is better to select \"Author Name\"."
+msgstr "Выберите вариант отображения правообладателя в строке аторского права. Для блога нескольких авторов лучше выбрать \"Имя автора\"."
+
+#: wp-copyrighted-post.php:121
+msgid "Blog Name"
+msgstr "Имя блога"
+
+#: wp-copyrighted-post.php:121
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: wp-copyrighted-post.php:121
+msgid "Site Name (URL based)"
+msgstr "Имя сайта (на базе URL)"
+
+#: wp-copyrighted-post.php:121
+msgid "Custom Name"
+msgstr "Настраиваемое имя"
+
+#: wp-copyrighted-post.php:122
+msgid "Custom Name of Copyrights owner"
+msgstr "Настраиваемое имя правообладателя"
+
+#: wp-copyrighted-post.php:122
+#: wp-copyrighted-post.php:123
+#: wp-copyrighted-post.php:124
+msgid "HTML tags allowed."
+msgstr "Разрешается использование HTML тегов."
+
+#: wp-copyrighted-post.php:123
+msgid "Define Copyright Notice String"
+msgstr "Стандартная строка авторского права"
+
+#: wp-copyrighted-post.php:123
+msgid "This is a phrase that originated in copyright law as part of copyright notices. English: \"All rights reserved.\""
+msgstr "Это стандартная строка для объявления авторского права. Обычно на русском используется фраза \"Все права защищены.\", на английском \"All rights reserved.\""
+
+#: wp-copyrighted-post.php:124
+msgid "Define Extended Copyright Notice String"
+msgstr "Дополнительная строка авторского права"
+
+#: wp-copyrighted-post.php:124
+msgid "This is extended copyright notice string. You can place additional information here."
+msgstr "В дополнительной строке можно поместить любую информацию. Например сообщение о необходимости ссылки на исходную статью при републикации."
+
+#: wp-copyrighted-post.php:125
+msgid "Display in Single Post Only"
+msgstr "Показывать только при просмотре одиночной статьи"
+
+#: wp-copyrighted-post.php:125
+msgid "Select \"Yes\", if you want display copyright notice only at the end of post in single post viewing mode."
+msgstr "Выберите \"Да\", если хотите показывать сообщение об авторских правах только в режиме просмотра одиночной статьи. Если Вы не пользуетесь тегом \"more\", имеет смысл включить показ во всех режимах, выбрав \"Нет\"."
+
+#: wp-copyrighted-post.php:125
+msgid "Yes"
+msgstr "Да"
+
+#: wp-copyrighted-post.php:125
+msgid "No"
+msgstr "Нет"
+
+#: wp-copyrighted-post.php:126
+msgid "Exclude Posts"
+msgstr "Исключая статьи"
+
+#: wp-copyrighted-post.php:126
+msgid "ID(s) of post(s) (comma separated without spaces). These posts are not subjects of copyrights."
+msgstr "ID статей (разделять запятыми, без пробелов). Эти статьи не являются субъектами авторского права."
+
+#: wp-copyrighted-post.php:127
+msgid "Exclude Categories"
+msgstr "Исключая рубрики"
+
+#: wp-copyrighted-post.php:127
+msgid "Name(s) of category(ies) (comma separated without spaces). The posts in these categories are not subjects of copyrights. For example: Posts in \"News\" Category."
+msgstr "Имена рубрик (разделять запятыми, без пробелов). Статьи из этих рубрик не являются субъектами авторского права."
+
+#: wp-copyrighted-post.php:133
+msgid "Parameters of copyright notice in the end of each post of your blog (Copyrighted Post plugin)."
+msgstr "Параметры уведомления об авторском праве в конце каждой статьи вашего блога (плагин Copyrighted Post)."
+
+#~ msgid ""
+#~ "Select displaying name of copyright owner. If your blog is multi-author "
+#~ "blog, use \"Author name\" to highlight copyright owner."
+#~ msgstr ""
+#~ "Выберите вариант отображения правообладателя в строке аторского права. "
+#~ "Для блога нескольких авторов лучше выбрать \"Имя автора\"."
+
+#~ msgid "Copyrighted Post"
+#~ msgstr "Авторские права"
+
+#~ msgid "Basic Settings"
+#~ msgstr "Основные параметры"
+
+#~ msgid "Copyrighted Post Settings Updated."
+#~ msgstr "Параметры плагина \"Авторские права\" сохранены."
+
+#~ msgid "Copyrighted Post Settings"
+#~ msgstr "Параметры плагина \"Авторские права\""
+
+#~ msgid "Update Settings"
+#~ msgstr "Сохранить параметры"
+
+#~ msgid "These are settings of Copyrighted Post plugin."
+#~ msgstr "Параметры плагина Copyrighted Post."
