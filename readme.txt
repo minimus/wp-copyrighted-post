@@ -3,8 +3,8 @@ Contributors: minimus
 Donate link: http://www.simplelib.com/
 Tags: content, copyright, text, post
 Requires at least: 2.8
-Tested up to: 4.2
-Stable tag: 1.2.15
+Tested up to: 5.8
+Stable tag: 1.2.22
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,6 +40,20 @@ No question now.
 
 == Changelog ==
 
+= 1.2.22 =
+* fixed: some vulnerability issues
+= 1.2.21 =
+* WordPress 5.8 ready
+= 1.2.20 =
+* WordPress 5.2 ready
+= 1.2.19 =
+* WordPress 5.1 ready
+= 1.2.18 =
+* WordPress 4.6 ready
+= 1.2.17 =
+* WordPress 4.5 ready
+= 1.2.16 =
+* WP 4.4 compatibility
 = 1.2.15 =
 * WP 4.2 compatibility
 = 1.2.14 =
@@ -54,7 +68,7 @@ No question now.
 = 1.0.8 =
 * Plugin files modified in accordance with new Wordpress standards.
 = 0.3.7 =
-* Embeding HTML tags added
+* Embedding HTML tags added
 * Codes of activating and deactivating optimised
 = 0.2.5 =
 * Simplified Chinese language by [爱写字](http://ixiezi.com/) added
@@ -62,12 +76,26 @@ No question now.
 * PHP4 compatibility added
 * Belarus language by [Fat Cower](http://www.fatcow.com) added
 * RSS Feed plugin output codes optimised
-* Wordpress 2.8.1 compatibility tested
+* WordPress 2.8.1 compatibility tested
 = 0.1.1 =
 * Initial upload
 
 == Upgrade Notice ==
 
+= 1.2.22 =
+fixed: some vulnerability issues
+= 1.2.21 =
+WordPress 5.8 ready
+= 1.2.20 =
+WordPress 5.2 ready
+= 1.2.19 =
+WordPress 5.1 ready
+= 1.2.18 =
+WordPress 4.6 ready
+= 1.2.17 =
+WordPress 4.5 ready.
+= 1.2.16 =
+WP 4.4 compatibility
 = 1.2.15 =
 WP 4.2 compatibility.
 = 1.2.14 =
@@ -82,7 +110,7 @@ Codes modified in accordance with new Wordpress 3+ standards.
 = 1.0.8 =
 Plugin files modified in accordance with new Wordpress standards.
 = 0.3.7 =
-Embeding HTML tags added
+Embedding HTML tags added
 Codes of activating and deactivating optimised
 = 0.2.5 =
 Simplified Chinese language by [爱写字](http://ixiezi.com/) added
@@ -90,7 +118,7 @@ Simplified Chinese language by [爱写字](http://ixiezi.com/) added
 PHP4 compatibility added
 Belarus language by [Fat Cower](http://www.fatcow.com) added
 RSS Feed plugin output codes optimised
-Wordpress 2.8.1 compatibility tested
+WordPress 2.8.1 compatibility tested
 = 0.1.1 =
 Initial upload
 
